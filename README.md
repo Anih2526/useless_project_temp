@@ -62,7 +62,7 @@ Profile creation
 
 Job hiring
 
-<img width="1917" height="970" alt="Screenshot 2026-09-04 060416" src="https://github.com/user-attachments/assets/51006b5e-3f71-492b-8b0c-ae430809dbca" />
+<img width="1917" height="970" alt="Screenshot 2026-09-04 060834" src="https://github.com/user-attachments/assets/97b12195-2440-4304-bd76-fa9ca3d9d29d" />
 
 CV 
 
