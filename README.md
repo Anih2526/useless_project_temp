@@ -39,8 +39,8 @@ For Software:
 # Clone the repository
 git clone [https://github.com/Anih2526/pattipani.git](https://github.com/your-username/pattipani.git)
 
-# Navigate into the project directory
-cd pattipani
+# Navigate into the Codes directory
+cd Codes
 
 # Run
 # Open directly in any modern browser (No build tools or node_modules required)
@@ -111,7 +111,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-https://youtube.com/shorts/EIR2KsSM5QU?si=IN9M14AlWbCFoLZ-
+[https://youtube.com/shorts/EIR2KsSM5QU?si=IN9M14AlWbCFoLZ-](https://youtube.com/shorts/EIR2KsSM5QU?si=IN9M14AlWbCFoLZ-)
 Basic functions and features of the webpage
 
 # Additional Demos
