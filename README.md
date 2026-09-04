@@ -50,7 +50,7 @@ open index.html
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1918" height="967" alt="Screenshot 2026-09-04 060134" src="https://github.com/user-attachments/assets/56c52089-11b7-4f27-af0a-488eb1b0941b" />
+<img width="1917" height="972" alt="Screenshot 2026-09-04 074543" src="https://github.com/user-attachments/assets/87d5436e-2b38-4932-a952-b23a848f8a65" />
 
 Main home page
 
